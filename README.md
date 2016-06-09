@@ -11,3 +11,11 @@
 
 1. それぞれ個人のブランチを作成する
 2. 自己紹介の項目に各自の「苗字 名前」をリストで追加していく
+
+## GitHub Flavored Markdown(GFM)
+
+GitHubではMarkdownと呼ばれるテキストをサポートしています。  
+GitHubで利用できるMarkdown記法は以下を参照してください。
+
+- [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Markdownで行こう！](https://gist.github.com/wate/7072365)
