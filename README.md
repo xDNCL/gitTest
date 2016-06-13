@@ -13,6 +13,8 @@
 
 1. masterブランチから個人のブランチを作成する
 2. 自己紹介の項目に各自の「苗字 名前」をリストで追加していく
+3. 追記できたら commit を行う
+4. commit のあと push を行いリモートリポジトリに反映する
 
 ## GitHub Flavored Markdown(GFM)
 
