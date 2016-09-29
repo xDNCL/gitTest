@@ -25,3 +25,8 @@ GitHubで利用できるMarkdown記法は以下を参照してください。
 
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Markdownで行こう！](https://gist.github.com/wate/7072365)
+
+### Markdownエディタ
+
+-  Haroopad ( 対応OS : Windows, MacOS, Linux )
+	- http://pad.haroopress.com/
